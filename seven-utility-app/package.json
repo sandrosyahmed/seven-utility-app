@@ -33,5 +33,10 @@
   },
   "overrides": {
     "vite": "npm:rolldown-vite@7.1.14"
-  }
+  },
+  "description": "🧩 Core Utilities (7 in 1)",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
