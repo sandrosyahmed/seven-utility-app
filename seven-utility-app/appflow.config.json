@@ -1,0 +1,10 @@
+{
+  "name": "Seven Utility App",
+  "type": "react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "scripts": {
+    "build": "vite build"
+  }
+}
